@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "t",
+      "type": "com.customyml.beans.Tournament",
+      "sourceType": "com.customyml.beans.Tournament"
+    }
+  ],
+  "properties": [
+    {
+      "name": "t.duration",
+      "type": "java.lang.Integer",
+      "sourceType": "com.customyml.beans.Tournament"
+    },
+    {
+      "name": "t.host",
+      "type": "java.lang.String",
+      "sourceType": "com.customyml.beans.Tournament"
+    },
+    {
+      "name": "t.id",
+      "type": "java.lang.Integer",
+      "sourceType": "com.customyml.beans.Tournament"
+    },
+    {
+      "name": "t.participating-team",
+      "type": "java.lang.String",
+      "sourceType": "com.customyml.beans.Tournament"
+    }
+  ],
+  "hints": []
+}
